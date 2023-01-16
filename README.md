@@ -25,7 +25,7 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
   - Comportamento de memória, arrays, listas ✅
   - Tópicos especiais em Java: data-hora ✅
   - >BÔNUS - Nivelamento sobre Git e Github ✅
-  - Enumerações, composição
+  - Enumerações, composição ✅
   - Herança e polimorfismo
   - Tratamento de exceções 
 
