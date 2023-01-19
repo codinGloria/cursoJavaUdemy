@@ -26,7 +26,7 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
   - Tópicos especiais em Java: data-hora ✅
   - >BÔNUS - Nivelamento sobre Git e Github ✅
   - Enumerações, composição ✅
-  - Herança e polimorfismo
+  - Herança e polimorfismo ✅
   - Tratamento de exceções 
 
 <br>
