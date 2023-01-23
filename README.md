@@ -31,11 +31,11 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
 
 <br>
 
-<h3> PROJETO 01 - Sistema jogo de xadrez ♟️ </h3>
+<h3> PROJETO 01 - Sistema jogo de xadrez ♟️ ✅ </h3>
 
-  - Composição de objetos, herança, coleções, etc.
-  - Desenvolvimento em camadas
-  - Padrões de projetos
+  - Composição de objetos, herança, coleções, etc. 
+  - Desenvolvimento em camadas 
+  - Padrões de projetos 
   
 <br>
 
