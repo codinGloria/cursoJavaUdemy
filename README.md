@@ -176,7 +176,7 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
   - Composição de objetos, herança, coleções, etc. ✅
   - Desenvolvimento em camadas ✅
   - Padrões de projetos ✅
-  - 
+    
 <br>
 
 <h3> 17 - Trabalhando com arquivos </h3>
