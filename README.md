@@ -8,7 +8,8 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
 <br>
 <h4 align=center> Este curso é composto por 25 tópicos (contendo 4 projetos), listados abaixo: </h4>
 
-<br><h3> 1 - Introdução </h3>
+<br>
+<h3> 1 - Introdução </h3>
 
   - Visão geral do curso ✅
   
@@ -24,7 +25,7 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
 
 <br>
 
-<h3 src="https://github.com/LiviaBraz/cursoJavaUdemy/tree/main/Se%C3%A7%C3%A3o%203%20-%20Introdu%C3%A7%C3%A3o%20a%20Linguagem%20Java"> 3 - Introdução à linguagem Java </h3>
+<h3> 3 - Introdução à linguagem Java </h3>
 
   - Entendendo as versões do Java ✅
   - Histórico e edições de Java ✅
