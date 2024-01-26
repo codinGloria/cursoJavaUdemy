@@ -181,11 +181,11 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
 
 <h3> 17 - Trabalhando com arquivos </h3>
 
-  - Lendo arquivo com classes File e Scanner
-  - FileReader e BufferedReader
-  - Try-with-resources
-  - FileWriter e BufferredWriter
-  - Manipulando pastas com File
+  - Lendo arquivo com classes File e Scanner ✅
+  - FileReader e BufferedReader✅
+  - Try-with-resources ✅
+  - FileWriter e BufferredWriter ✅
+  - Manipulando pastas com File ✅
 
 <br>
 
