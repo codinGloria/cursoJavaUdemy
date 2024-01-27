@@ -98,7 +98,7 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
 
 <h3> 10 - Comportamento de memória, arrays, listas </h3>
 
-  - TTipos referência vs Tipo valor ✅
+  - Tipos referência vs Tipo valor ✅
   - Desalocação de memória - Garbage Collector e escopo local ✅
   - Vetores ✅
   - Boxing, unboxing e wrapper classes ✅
