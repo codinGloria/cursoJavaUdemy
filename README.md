@@ -191,12 +191,12 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
 
 <h3> 18 - Interfaces </h3>
 
-  - Interfaces
-  - Inversão de controle e injeção de dependência
-  - Herdar vs Cumprir contrato
-  - Heranã múltipla e o problema do diamente
-  - Interface Comparable
-  - Default methods
+  - Interfaces ✅
+  - Inversão de controle e injeção de dependência ✅
+  - Herdar vs Cumprir contrato ✅
+  - Herança múltipla e o problema do diamante ✅
+  - Interface Comparable ✅
+  - Default methods ✅
 
 <br>
 
