@@ -202,12 +202,12 @@ O curso do Profº Nélio Alves conta com vídeo aulas, materiais de apoio, exerc
 
 <h3> 19 - Generics, Set, Map </h3>
 
-  - Introdução ao Generics
-  - Tipos curingas e curingas delimitados
-  - HashCode e Equals
-  - Set
-  - TreeSet separando elementos
-  - Map
+  - Introdução ao Generics ✅
+  - Tipos curingas e curingas delimitados ✅
+  - HashCode e Equals ✅
+  - Set ✅
+  - TreeSet separando elementos ✅
+  - Map ✅
 
 <br>
 
